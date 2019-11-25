@@ -1,1 +1,1 @@
-# tricty things
+# Tricty things for data science
