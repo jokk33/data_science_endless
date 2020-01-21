@@ -7,6 +7,7 @@
   - when bin: use pd.cut()
   - joblib
   - tranform to np
+- use df[~df.variable.isin(case)] conditional choose df
   
 
 ## Model
